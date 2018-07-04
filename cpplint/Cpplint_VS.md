@@ -1,5 +1,4 @@
 # Install Cpplint And Integrate Into Visual Studio
-@(C++)
 
 ## Install Cpplint
 
