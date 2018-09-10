@@ -1,4 +1,4 @@
-# Forever C++
+# cpp-study
 
 ## Google C++ Styles
 
